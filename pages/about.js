@@ -1,5 +1,8 @@
+import Header from '../comps/Header'
+
 export default () => (
   <div>
-    <p>This is the about page</p>
+    <Header />
+    <p>This is the About Page!!</p>
   </div>
 )
